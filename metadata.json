@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Encounter Lab - 3D Celestial Simulator",
+  "description": "Interactive 3D orbital mechanics simulator exploring gravitational flybys, captures, and orbital energy around Earth with simulated 3D celestial globes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
